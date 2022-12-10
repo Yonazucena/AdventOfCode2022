@@ -11,6 +11,7 @@
         "xhash": "cpp",
         "xtree": "cpp",
         "ostream": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "unordered_map": "cpp"
     }
 }
