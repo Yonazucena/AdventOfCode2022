@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-ifstream myfile;
+    ifstream myfile;
     myfile.open("input.txt");
     string line;
     if (myfile.is_open()) {
